@@ -1,0 +1,36 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+	width: 960px;
+	margin: 0px auto;
+	overflow: hidden;
+	background-color: black;
+	padding-top: 30px;
+	color: white;
+	padding: 40px;
+		
+}
+#content_pics{
+	display: inline-block;
+	
+}
+#content_bottom_pics{
+	display: inline-block;
+}
+#content_pics img{
+	width: 450px;
+	height: 350px;
+}
+#content_bottom_pics img{
+		width: 450px;
+	height: 350px;
+}
+
+#wrapper h1{
+margin-bottom: 10px;
+}
+#wrapper p{
+margin-bottom: 10px;
+}
